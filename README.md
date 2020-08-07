@@ -1,1 +1,1 @@
-# adblock
+# Detectar usuários do AdBlock com o Google Analytics
